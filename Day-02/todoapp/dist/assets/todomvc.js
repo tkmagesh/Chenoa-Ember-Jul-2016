@@ -1148,7 +1148,7 @@ catch(err) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("todomvc/app")["default"].create({"name":"todomvc","version":"0.0.0+2a0eaf00"});
+  require("todomvc/app")["default"].create({"name":"todomvc","version":"0.0.0+8465635c"});
 }
 
 /* jshint ignore:end */

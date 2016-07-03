@@ -6,3 +6,5 @@ export default Ember.Route.extend({
 		return this.get('repo').findAll();
 	}
 });
+
+
